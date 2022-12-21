@@ -1,5 +1,6 @@
 hibernate.cfg.xml
-.properties
+*.properties
+/.metadata
 
 # Compiled class file
 *.class
